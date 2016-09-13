@@ -1,0 +1,1 @@
+var url = "http://thagatpam.in/helpii/wp-content/plugins/wp2android-turn-wp-site-into-android-app/";
